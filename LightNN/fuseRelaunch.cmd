@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/youknowwho/Desktop/LightNN/LightNN/mult_t_isim_beh.exe" -prj "/home/youknowwho/Desktop/LightNN/LightNN/mult_t_beh.prj" "work.mult_t" 

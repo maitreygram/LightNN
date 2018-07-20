@@ -1,0 +1,3 @@
+vhdl work "shift_unit.vhd"
+vhdl work "shift_mult.vhd"
+vhdl work "mult_t.vhd"

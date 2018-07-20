@@ -1,0 +1,31 @@
+Command line:
+   mult_t_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  43733
+
+Sat Mar 31 20:55:08 2018
+
+
+ Elaboration Time: 0.02 sec
+
+ Current Memory Usage: 195.936 Meg
+
+ Total Signals          : 33
+ Total Nets             : 356
+ Total Signal Drivers   : 17
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 4
+ Total Traceable Variables  : 17
+ Total Scalar Nets and Variables : 859
+Total Line Count : 46
+In process shift_mult.vhd:68 
+ 
+
+ Total Simulation Time: 0.02 sec
+
+ Current Memory Usage: 271.438 Meg
+
+Sat Mar 31 20:55:16 2018
+
